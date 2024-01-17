@@ -3,5 +3,5 @@
 # print(num1*num2)
 def square(num1,num2):
     return num1*num2
-print(square(10,20))
+print(square(int(input("Num 1\n")),int(input("Num 2\n"))))
     
